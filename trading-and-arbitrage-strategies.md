@@ -1,5 +1,7 @@
 # Trading and Arbitrage Strategies for the AssetFlowControlSystem
 
+[![hackmd-github-sync-badge](https://hackmd.io/WyT3EI6XTEScv1zP3875hQ/badge)](https://hackmd.io/WyT3EI6XTEScv1zP3875hQ)
+
 First we have to display a very basic set of variables and parameters which would be used for every of our strategies.
 
 ## 2 Asset Subsystem
